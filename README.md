@@ -1,3 +1,5 @@
+# Machine learning model using python to predict the advertising revenue related metric on a website traffic data to optimize web traffic to generate revenue.
+
 # Google_ad_Project
 # Dataset Information
 This dataset contains real-world online advertising data where the target feature is a revenuerelated
